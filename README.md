@@ -16,5 +16,5 @@ HEDIS quality measures and Medicare Advantage Star Ratings.
 `Python` `scikit-learn` `XGBoost` `Pandas` `SQL` `HEDIS` `Healthcare Analytics`
 
 ### 📫 Connect
-- LinkedIn: [your-link]
+- LinkedIn: www.linkedin.com/in/rreichert-HEDIS-Data-Science-AI
 - Email: reichert@post.com
