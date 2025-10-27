@@ -17,4 +17,4 @@ HEDIS quality measures and Medicare Advantage Star Ratings.
 
 ### 📫 Connect
 - LinkedIn: www.linkedin.com/in/rreichert-HEDIS-Data-Science-AI
-- Email: reichert@post.com
+- Email: robert.reichert99@gmail.com
